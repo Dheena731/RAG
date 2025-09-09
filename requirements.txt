@@ -1,0 +1,13 @@
+chromadb
+sentence-transformers
+torch
+torchvision
+Pillow
+PyPDF2
+python-docx
+numpy
+pandas
+tqdm
+argparse
+pathlib
+json

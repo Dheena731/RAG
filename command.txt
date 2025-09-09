@@ -1,0 +1,1 @@
+python main.py --command ingest --files document1.pdf image1.jpg 
